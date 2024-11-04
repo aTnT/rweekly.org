@@ -55,6 +55,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 **GitHub or Bitbucket**
 
++ [{newplaces}](https://github.com/aTnT/newplaces): R-wrapper package to the Google Places API (New)
 
 ### Updated Packages
 
